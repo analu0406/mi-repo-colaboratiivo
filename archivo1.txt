@@ -3,9 +3,5 @@ Este es mi archivo inicial local
 
 
 
-<<<<<<< HEAD
-Línea añadida desde local en la tarea
-=======
 
 Línea añadida desde GitHub en la tarea
->>>>>>> ea9b4cbe8bad211d9da0064819d8a6f44b34df9b
