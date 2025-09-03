@@ -1,1 +1,7 @@
 Este es mi archivo inicial local
+
+
+
+
+
+Línea añadida desde GitHub en la tarea
